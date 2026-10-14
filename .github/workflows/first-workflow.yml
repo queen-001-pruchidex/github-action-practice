@@ -8,7 +8,7 @@ jobs:
 
     steps:
       - name: Display a greeting
-        run: echo "Hello! My first Github Actions workflow is running."
+        run: echo "I am taking another step towards becoming a DevOps engineer."
 
       - name: Display today's lesson
         run: echo "I am learning automation as part of my DevOps journey."
