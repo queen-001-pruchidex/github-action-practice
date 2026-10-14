@@ -12,3 +12,5 @@ jobs:
 
       - name: Display today's lesson
         run: echo "I am learning automation as part of my DevOps journey."
+
+        run: echo "Learning by doing makes a difference!
