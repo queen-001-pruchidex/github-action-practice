@@ -1,0 +1,14 @@
+name: My First Workflow
+
+on: push
+
+jobs:
+  greet:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Display a greeting
+        run: echo "Hello! My first Github Actions workflow is running."
+
+      - name: Display today's lesson
+        run: echo "I am learning automation as part of my DevOps journey."
