@@ -13,5 +13,6 @@ jobs:
       - name: Display today's lesson
         run: echo "I am learning automation as part of my DevOps journey."
         
+      - name: Display my learning statement
         run: echo "Learning by doing makes a difference!"
         
